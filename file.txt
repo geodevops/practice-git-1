@@ -1,2 +1,4 @@
 My first line in project
 Paris is the capital of France
+Georgia is capital of Tbilisi
+Yerevan is capital of Armenia
